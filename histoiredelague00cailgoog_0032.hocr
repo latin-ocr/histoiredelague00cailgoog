@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoiredelague00cailgoog_0032.png"; bbox 0 0 2284 4000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 135 1151 901 1329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 135 1151 901 1348">
+     <span class='ocr_line' id='line_1_1' title="bbox 135 1151 901 1329; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 135 1173 140 1181; x_wconf 78' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 277 1168 785 1329; x_wconf 79' lang='lat' dir='ltr'>HISTOIRE</span> <span class='ocrx_word' id='word_1_3' title='bbox 898 1151 901 1156; x_wconf 79' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 121 1599 934 2065">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 121 1599 934 2065">
+     <span class='ocr_line' id='line_1_2' title="bbox 121 1599 934 1835; baseline -0.006 -22"><span class='ocrx_word' id='word_1_4' title='bbox 121 1599 451 1813; x_wconf 60' lang='lat' dir='ltr'><strong>annm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 494 1690 599 1822; x_wconf 72' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 648 1685 934 1835; x_wconf 64' lang='lat' dir='ltr'><strong>mom</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 165 1937 887 2065; baseline -0.008 -27"><span class='ocrx_word' id='word_1_7' title='bbox 165 1939 422 2038; x_wconf 56' lang='lat' dir='ltr'><strong>nmmum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 435 1954 637 2039; x_wconf 68' lang='lat' dir='ltr'><strong>Amerrs</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 651 1937 887 2065; x_wconf 64' lang='lat' dir='ltr'><strong>mmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1146 4000">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1146 4000">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1146 4000; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1146 4000; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
